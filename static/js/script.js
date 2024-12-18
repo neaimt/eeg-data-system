@@ -450,7 +450,7 @@ async function getModelResult(steps, processed_data) {
 }
 
 function createResultBox(dataId, settingName, preprocessingSteps, model, fileName, predictionResponse) {
-    const resultLabel = ['낮음', '중간', '높음'];
+    const resultLabel = ['낮음', '보통', '높음'];
     const resultColors = {
         '낮음': 'green',
         '보통': 'orange',
