@@ -5,6 +5,9 @@
 
 EEG 데이터를 업로드하고 전처리, 분석 및 예측할 수 있는 시스템입니다.
 
+<img width="1414" alt="KakaoTalk_Photo_2025-02-17-22-02-13" src="https://github.com/user-attachments/assets/ff6a224d-e82a-4735-9864-baeae005253c" />
+
+
 ---
 
 ## **프로젝트 클론 및 실행 방법**
